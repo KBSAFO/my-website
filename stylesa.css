@@ -1,0 +1,6 @@
+body {
+    background-image: url('photo_2024-08-26_09-23-48.jpg'); /* Update with the path to your image */
+    background-size: cover; /* Scales the image to cover the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+}
